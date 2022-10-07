@@ -1,5 +1,5 @@
-Die Vorgehensweise ist wie folgt:
-Man sucht sich in Tabelle den gewünschten Temperaturschaltpunkt 
+Die Vorgehensweise zum Einstellen der Schwellwerte im Temperaturschalter ist wie folgt:
+Man sucht sich in der Tabelle den gewünschten Temperaturschaltpunkt 
 und den entsprechenden Spannungswert heraus. 
 
 Beispiel: Schaltpunkt soll bei 20°C liegen,
